@@ -9,7 +9,7 @@ Reset style :root {
 }
 
 * {
-  font-family: "Mulish", sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -34,6 +34,7 @@ html {
   display: flex;
   margin: auto;
   justify-content: center;
+  margin-top: 15vh;
 }
 
 .container_profile .kembali {
@@ -114,10 +115,10 @@ img.profile {
 }
 
 .card2 .pembayaran {
-  margin: 1vw;
+  margin: 0.5vw;
 }
 .card2 .isi_pembayaran {
-  margin-top: 2vw;
+  margin-top: 0.5vh;
 }
 
 /* ------------------ */
@@ -174,10 +175,10 @@ img.profile {
 }
 
 .card4 .jadwal_konsultasi {
-  margin: 1vw;
+  margin: 0.5vw;
 }
 .card4 .isi_jadwal {
-  margin-top: 2vw;
+  margin-top: 1vh;
 }
 /* ---------------------------- */
 
