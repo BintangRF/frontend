@@ -1,4 +1,4 @@
-const backendUrl = `http://localhost:3000`;
+const backendUrl = `http://backend-rebios-production.up.railway.app`;
 
 document.addEventListener("DOMContentLoaded", () => {
   const loginForm = document.getElementById("login-form");

@@ -1,4 +1,4 @@
-const backendUrl = `http://localhost:3000`; // Ganti dengan URL backend Anda
+const backendUrl = `http://backend-rebios-production.up.railway.app`; // Ganti dengan URL backend Anda
 
 // Misalnya, jika Anda ingin mengambil halaman `/index` setelah halaman dimuat
 fetch(`${backendUrl}/index`)
