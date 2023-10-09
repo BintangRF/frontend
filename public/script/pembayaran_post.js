@@ -1,4 +1,4 @@
-const backendUrl = `http://backend-rebios-production.up.railway.app`;
+const backendUrl = `http://backend-revou-production.up.railway.app`;
 // Ambil data formulir dari elemen HTML, misalnya:
 const id_pasien = document.getElementById("id_pasien").value;
 const nama_pasien = document.getElementById("nama_pasien").value;
